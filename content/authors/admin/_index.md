@@ -1,17 +1,16 @@
 ---
 # Display name
-title: 吳健雄
+title: PhD. Abd Errahmane KIOUCHE
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Abd Errahmane
+last_name: KIOUCHE
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ♾️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,69 +19,67 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: R&D Engineer (AI)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Expleo
+    url: https://expleo.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:abderrahmane.kiouche@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: brands/google-scholar
+    url: https://scholar.google.fr/citations?user=vSOu3yEAAAAJ&hl=fr
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://gitlab.liris.cnrs.fr/aekiouche
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/abd-errahmane-k-3b21871a2/
+  - icon: "custom/dblp"
+    url: https://dblp.org/pid/234/6027.html
+  - icon: brands/orcid
+    url: https://orcid.org/0000-0003-2247-4859
+
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - NLP
+  - Graph Deep Learning
+  - Network Analysis
+  - Combinatorial Optimization
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: "Doctorate in Computer Science"
+    institution: "LIRIS, Claude Bernard University Lyon 1, France (joint supervision with the National School of Computer Science, Algeria)"
+    date_start: "2018-01-01"
+    date_end: "2021-11-01"
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis: "Graph Matching and Big Data"
+      Domains: Pattern Recognition, Machine Learning, and Artificial Intelligence
+      Defense Date: 09 November 2021
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      text: "Read Thesis"
+      url: "http://www.theses.fr/2021LYSE1220"
+  - area: "Master in Computer Systems"
+    institution: "National School of Computer Science (ESI), Algiers, Algeria"
+    date_start: "2016-09-01"
+    date_end: "2017-07-01"
     summary: |
-      GPA: 3.8/4.0
+      Thesis: "Hybridization Schemes for the Frequency Assignment Problem"
+      Domains: Combinatorial Optimization, Artificial Intelligence
+  - area: "State Engineer in Computer Systems"
+    institution: "National School of Computer Science (ESI), Algiers, Algeria"
+    date_start: "2012-09-01"
+    date_end: "2017-06-01"
+    summary: |
+      Thesis: "Multi-objective Hybrid Approaches Based on Genetic Algorithms and Artificial Immune Systems for Solving the Frequency Assignment Problem"
+      Domains: Networks, Data, and Artificial Intelligence
+      Grade: Very Good
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -109,45 +106,108 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
+work:
+  - position: "AI Engineer - Innovation and R&D"
+    company_name: "Expleo France"
+    company_url: ""
+    company_logo: ""
+    date_start: "2024-02-04"
+    date_end: ""
+    summary: |
+      Research Topics: Large Language Models (LLM), Artificial Intelligence, Natural Language Processing, Machine Learning, Data Science.
+  - position: "Postdoctoral Researcher"
+    company_name: "LIRIS, Claude Bernard University Lyon 1"
+    company_url: ""
+    company_logo: ""
+    date_start: "2022-09-01"
+    date_end: "2024-01-01"
+    summary: |
+      Research Theme: Learning and Anomaly Detection in Dynamic Graphs, Deep Learning on Graphs.
+  - position: "Temporary Lecturer and Researcher (ATER)"
+    company_name: "Université Lumière - Lyon 2"
+    company_url: ""
+    company_logo: ""
+    date_start: "2020-09-01"
+    date_end: "2022-08-01"
+    summary: |
+      Member of the GOAL team at LIRIS.
+      Research Theme: Data Science.
+  - position: "Adjunct Lecturer"
+    company_name: "IUT Lyon 1, Bourg-en-Bresse Campus"
+    company_url: ""
+    company_logo: ""
+    date_start: "2018-09-01"
+    date_end: "2020-06-01"
+    summary: |
+      Delivered courses in the Database module within the Computer Science department.
+
 skills:
-  - name: Technical Skills
+  - name: "Technical Skills"
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
+      - name: "C"
+        description: "Programming language"
+        percent: 70
+        icon: "devicon/c"
+      - name: "C++"
+        description: "Programming language"
+        percent: 70
+        icon: "devicon/cplusplus"
+      - name: "Java"
+        description: "Programming language"
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
+        icon: "devicon/java"
+      - name: "C#"
+        description: "Programming language"
+        percent: 50
+        icon: "devicon/csharp"
+      - name: "Matlab"
+        description: "Numerical computing"
+        percent: 70
+        icon: "devicon/matlab"
+      - name: "Python"
+        description: "High-level programming language"
+        percent: 90
+        icon: "devicon/python"
+      - name: "SQL"
+        description: "Database querying language"
         percent: 80
-        icon: camera
+        icon: "devicon/sql"
+      - name: "PL/SQL"
+        description: "Procedural extension for SQL"
+        percent: 70
+        icon: "devicon/oracle"
+      - name: "HTML/CSS/JavaScript/PHP"
+        description: "Web development"
+        percent: 60
+        icon: "devicon/html5"
+      - name: "Sklearn"
+        description: "Machine learning library"
+        percent: 85
+        icon: "devicon/python"
+      - name: "NetworkX"
+        description: "Graph processing library"
+        percent: 80
+        icon: "devicon/python"
+      - name: "PyTorch"
+        description: "Deep learning framework"
+        percent: 80
+        icon: "devicon/pytorch"
+      - name: "TensorFlow"
+        description: "Deep learning framework"
+        percent: 75
+        icon: "devicon/tensorflow"
+      - name: "OpenMP/MPI/GNS3"
+        description: "Parallel computing & network simulation"
+        percent: 70
+        icon: "devicon/linux"
 
 languages:
-  - name: English
+  - name: "French"
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: "English"
+    percent: 80
+  - name: "Arabic"
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -161,26 +221,10 @@ awards:
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  
+ 
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an AI Engineer and Data Scientist specializing in Natural Language Processing (NLP), Generative AI, and Retrieval-Augmented Generation (RAG), with experience in developing AI-driven solutions for software engineering, cybersecurity, and graph-based analytics. My work includes optimizing retrieval mechanisms, leveraging knowledge graphs for contextual accuracy, and designing efficient, scalable algorithms for various AI applications. I have contributed to projects such as anti-smishing detection models for cybersecurity and graph-based anomaly detection in IT systems, utilizing techniques like Graph Neural Networks (GNNs) and streaming algorithms. Additionally, I have experience in teaching, research, and algorithm optimization, with a focus on improving the performance and efficiency of AI systems.
