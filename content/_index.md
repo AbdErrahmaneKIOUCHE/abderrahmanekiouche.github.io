@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+      I am an AI Engineer and Data Scientist specializing in Natural Language Processing (NLP), Generative AI, and Retrieval-Augmented Generation (RAG), with experience in developing AI-driven solutions for software engineering, cybersecurity, and graph-based analytics. 
+      My work includes optimizing retrieval mechanisms, leveraging knowledge graphs for contextual accuracy, and designing efficient, scalable algorithms for various AI applications. 
+      I have contributed to projects such as anti-smishing detection models for cybersecurity and graph-based anomaly detection in IT systems, utilizing techniques like Graph Neural Networks (GNNs) and streaming algorithms. Additionally, I have experience in teaching, research, and algorithm optimization, with a focus on improving the performance and efficiency of AI systems.
+      
+      Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
