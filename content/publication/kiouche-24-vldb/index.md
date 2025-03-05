@@ -7,6 +7,7 @@ authors:
 - Hamida Seba
 - Angela Bonifati
 date: '2025-02-01'
+featured: true
 publishDate: '2025-03-03T21:07:50.703924Z'
 publication_types:
 - article-journal
