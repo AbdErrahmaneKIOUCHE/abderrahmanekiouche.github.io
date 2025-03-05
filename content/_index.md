@@ -44,7 +44,6 @@ sections:
       Please reach out to collaborate! 😃
     design:
       columns: '1'
-      text-align: justify
   - block: collection
     id: papers
     content:
