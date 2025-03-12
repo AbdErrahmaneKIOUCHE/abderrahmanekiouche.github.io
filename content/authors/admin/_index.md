@@ -183,7 +183,7 @@ languages:
   - name: "English"
     percent: 80
   - name: "Arabic"
-    percent: 80
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -203,4 +203,4 @@ awards:
 
 ## About Me
 
-I am an AI Engineer and Data Scientist specializing in Natural Language Processing (NLP), Generative AI, and Retrieval-Augmented Generation (RAG), with experience in developing AI-driven solutions for software engineering, cybersecurity, and graph-based analytics.
+My research focuses on Machine Learning, Graph Analytics, and Optimization, emphasizing efficient algorithms for graph matching, anomaly detection, and large-scale data management. I actively explore interdisciplinary applications, including cybersecurity and Data mining, and have published extensively in top-tier journals and conferences. Passionate about education, I regularly teach advanced courses in Data Science and Artificial Intelligence.

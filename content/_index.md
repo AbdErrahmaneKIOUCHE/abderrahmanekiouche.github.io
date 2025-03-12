@@ -35,11 +35,15 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |
-        I am an **AI Engineer and Data Scientist** specializing in **Natural Language Processing (NLP), Generative AI, and Retrieval-Augmented Generation (RAG)**, with experience in developing AI-driven solutions for **software engineering, cybersecurity, and graph-based analytics**. 
+        My research primarily revolves around Machine Learning, Graph Analytics, and Pattern Recognition, with a strong emphasis on optimization and data-driven solutions. My Ph.D. thesis, completed at LIRIS, Université Claude Bernard Lyon 1, explored efficient algorithms for graph matching and large-scale data management, solving critical scalability and performance issues.
 
-        My work includes optimizing retrieval mechanisms, leveraging knowledge graphs for contextual accuracy, and designing **efficient, scalable algorithms** for various AI applications. I have contributed to projects such as **anti-smishing detection models** for cybersecurity and **graph-based anomaly detection** in IT systems, utilizing techniques like **Graph Neural Networks (GNNs) and streaming algorithms**.
+        Currently, my research includes advanced anomaly detection in dynamic graphs and deep learning techniques for graph-based data, enhancing the robustness of cybersecurity systems against advanced persistent threats.
+        
+        My recent contributions to conferences such as VLDB underline my commitment to graph sparsification techniques for efficient graph compression, maintaining neighborhood structures to facilitate effective graph analysis in databases.
 
-        Additionally, I have experience in **teaching, research, and algorithm optimization**, with a focus on improving the **performance and efficiency** of AI systems.
+        Additionally, my interdisciplinary approach is exemplified by my contribution to computational geometry and archaeological studies, including the analysis of ancient mega-structures through geometric graph matching techniques, as highlighted in my publication in PLOS ONE. I actively engage with optimization problems, developing hybrid multi-objective algorithms published in high-ranked journals such as Pattern Recognition Letters and Engineering Applications of Artificial Intelligence.
+
+        I remain involved academically through peer reviews for reputable journals, mentoring master's students in Data Science and AI, and delivering specialized courses on graph neural networks and operational research.
 
         Please reach out to collaborate! 😃
     design:
