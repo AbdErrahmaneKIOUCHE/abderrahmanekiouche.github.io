@@ -122,59 +122,45 @@ skills:
     items:
       - name: "C"
         description: "Programming language"
-        percent: 70
         icon: "devicon/c"
       - name: "C++"
         description: "Programming language"
-        percent: 70
         icon: "devicon/cplusplus"
       - name: "Java"
         description: "Programming language"
-        percent: 60
         icon: "devicon/java"
       - name: "C#"
         description: "Programming language"
-        percent: 50
         icon: "devicon/csharp"
       - name: "Matlab"
         description: "Numerical computing"
-        percent: 70
         icon: "devicon/matlab"
       - name: "Python"
         description: "High-level programming language"
-        percent: 90
         icon: "devicon/python"
       - name: "SQL"
         description: "Database querying language"
-        percent: 80
         icon: "devicon/sql"
       - name: "PL/SQL"
         description: "Procedural extension for SQL"
-        percent: 70
         icon: "devicon/oracle"
       - name: "HTML/CSS/JavaScript/PHP"
         description: "Web development"
-        percent: 60
         icon: "devicon/html5"
       - name: "Sklearn"
         description: "Machine learning library"
-        percent: 85
         icon: "devicon/python"
       - name: "NetworkX"
         description: "Graph processing library"
-        percent: 80
         icon: "devicon/python"
       - name: "PyTorch"
         description: "Deep learning framework"
-        percent: 80
         icon: "devicon/pytorch"
       - name: "TensorFlow"
         description: "Deep learning framework"
-        percent: 75
         icon: "devicon/tensorflow"
       - name: "OpenMP/MPI/GNS3"
         description: "Parallel computing & network simulation"
-        percent: 70
         icon: "devicon/linux"
 
 languages:
