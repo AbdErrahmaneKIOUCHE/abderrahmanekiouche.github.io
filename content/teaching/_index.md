@@ -18,5 +18,5 @@ sections:
         folders:
           - teaching
     design:
-      view: showcase
+      view: compact
 ---
