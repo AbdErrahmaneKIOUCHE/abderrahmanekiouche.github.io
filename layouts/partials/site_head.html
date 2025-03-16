@@ -175,7 +175,7 @@
 
   {{ $title := "" }}
   {{ with .Params.seo.title }}
-    {{ $title = replace . "{brand}" site.Title }}
+    {{ $title = replace . "{brand}" "" }}
   {{ else }}
     {{ $title = .Title  }}
     {{ if ne $title site.Title }}{{ $title = printf "%s | %s" $title site.Title }}{{ end }}
