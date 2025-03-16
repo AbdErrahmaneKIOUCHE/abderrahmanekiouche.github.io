@@ -31,6 +31,13 @@ jobs:
       with:
           # Fetch history for Hugo's .GitInfo and .Lastmod
         fetch-depth: 0
+    - name: Check for override file
+      run: |
+        if [ -f layouts/partials/head.html ]; then
+          echo "Override file found: layouts/partials/head.html";
+        else
+          echo "Override file NOT found.";
+        fi    
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
