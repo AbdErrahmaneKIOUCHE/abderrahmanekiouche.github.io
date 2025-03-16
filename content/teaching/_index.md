@@ -18,5 +18,5 @@ sections:
         folders:
           - teaching
     design:
-      view: compact
+      view: card
 ---
