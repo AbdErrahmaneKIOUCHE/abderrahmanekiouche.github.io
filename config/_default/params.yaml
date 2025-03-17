@@ -16,7 +16,7 @@ marketing:
     org_name: ''
     description: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'GTM-5DZ7PGL6'
     baidu_tongji: ''
     plausible: ''
     fathom: ''
